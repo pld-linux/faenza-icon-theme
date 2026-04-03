@@ -1,7 +1,7 @@
 Summary:	Icon theme designed for Equinox GTK theme
 Name:		faenza-icon-theme
 Version:	1.1
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		X11/Applications
 URL:		http://tiheum.deviantart.com/art/Faenza-Icons-173323228
